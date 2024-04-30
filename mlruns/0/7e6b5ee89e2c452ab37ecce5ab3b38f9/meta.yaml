@@ -1,0 +1,15 @@
+artifact_uri: file:///home/reddemma/mlflow_TCE/mlruns/0/7e6b5ee89e2c452ab37ecce5ab3b38f9/artifacts
+end_time: 1713889119698
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e6b5ee89e2c452ab37ecce5ab3b38f9
+run_name: luxuriant-colt-363
+run_uuid: 7e6b5ee89e2c452ab37ecce5ab3b38f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713889104369
+status: 3
+tags: []
+user_id: reddemma
